@@ -1,0 +1,8 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Segoe UI', sans-serif; background: #fff8f0; color: #333; }
+a { text-decoration: none; color: inherit; }
+main { max-width: 1200px; margin: 0 auto; padding: 20px; min-height: 70vh; }
+footer { text-align: center; padding: 20px; color: #999; }
+@media (max-width: 600px) {
+  main { padding: 12px; }
+}
